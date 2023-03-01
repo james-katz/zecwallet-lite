@@ -9,7 +9,7 @@
 }
 
 .well {
-  background-color: #000;
+  background-color: #001d03;
   padding: 16px;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .highlight {
-  color: #c3921f;
+  color: #18bd18;
 }
 
 .xlarge {
@@ -79,8 +79,8 @@
 }
 
 .primarybutton {
-  background-color: #c3921f;
-  color: #000;
+  background-color: #5a8b59;
+  color: #041605;
   text-align: center;
   font-weight: bold;
   font-size: 14px;
@@ -89,7 +89,7 @@
   padding-left: 16px;
   padding-right: 16px;
   border-radius: 4px;
-  border-color: #c3921f;
+  border-color: #3e9d3d;
   margin-left: 8px;
   margin-right: 8px;
 }
@@ -103,6 +103,7 @@
 
 .primarybutton:hover {
   cursor: pointer;
+  background-color: #4a9b49;
 }
 
 .padtopsmall {
@@ -146,7 +147,7 @@
 }
 
 .blackbg {
-  background-color: #000;
+  background-color: #001302;
 }
 
 .maxwidth {
@@ -162,8 +163,8 @@
   padding-right: 8px;
   font-size: 16px;
   border: none;
-  border-bottom: grey 1px solid;
-  background-color: #000;
+  border-bottom: rgb(0, 104, 35) 1px solid;
+  background-color: #001400;
   color: white;
 }
 
@@ -179,7 +180,7 @@
   bottom: auto;
   opacity: 1;
   transform: translate(-0%, -12.5%);
-  background: #212124;
+  background: #001400;
   position: absolute;
   padding: 16px;
   min-width: 700px;
@@ -204,7 +205,7 @@
 
 .tableheader {
   margin: 8px;
-  border-bottom: solid 1px grey;
+  border-bottom: solid 1px gray;
 }
 
 .balancebox {
